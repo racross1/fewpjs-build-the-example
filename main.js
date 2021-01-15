@@ -3,6 +3,13 @@ const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
+let errorModal = document.getElementById('modal')
+// errorModal.hidden = true
+errorModal.classList.add('hidden')
+
+function mimicServerCall() {
+
+}
 
 
 
